@@ -7,3 +7,6 @@ The original video is in RGB format, but it is converted to grayscale.
 
 2) LeftMouseCallback : This mini-project emphasises on printing the co-ordinates of the points on the image where the left mouse
 button is clicked.
+
+3) MouseCallback : The co-ordinates of the points on the image where the left mouse button is clicked is printed in cyan. And if the
+right mouse button is clicked, then the BGR co-ordinates of that point is printed in yellow.
