@@ -19,3 +19,6 @@ line is generated between the last and the second last points. The lines are dra
 an another 300 x 300 sized window.
 
 6) ImageMerge : In this mini-project, two images are merged with weights (or transparency) into one single image.
+
+7) bitwise : In this mini-project, bitwise operations are done between two images. The images go through OR, AND, XOR, and NOT operations.
+
