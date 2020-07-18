@@ -14,3 +14,6 @@ right mouse button is clicked, then the BGR co-ordinates of that point is printe
 4) PolygonFromPoints : If the user clicks anywhere in the image, then that point's co-ordinates are stored. If the user clicks somewhere
 else, then the a line is generated between the previous clicked point and the last point. So basically, if there are more than 2 points, then a 
 line is generated between the last and the second last points. The lines are drawn in Cyan and the points in red.
+
+5) ColorPicker : This mini-project will pick the color of the image when left mouse button is clicked on the image, and the picked color is shown in 
+an another 300 x 300 sized window.
