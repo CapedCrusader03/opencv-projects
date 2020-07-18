@@ -1,6 +1,6 @@
 # opencv-projects
 
-All the below mini-projects use OpenCV library for this purpose.
+All the below mini-projects use OpenCV library.
 
 1) Date_time_resolution : This mini-project emphasises on printing the resolution of the camera and the current date and time. 
 The original video is in RGB format, but it is converted to grayscale.
@@ -21,4 +21,4 @@ an another 300 x 300 sized window.
 6) ImageMerge : In this mini-project, two images are merged with weights (or transparency) into one single image.
 
 7) bitwise : In this mini-project, bitwise operations are done between two images. The images go through OR, AND, XOR, and NOT operations.
-
+The resultant images appear for a duration of 2 seconds before moving on to the next image.
