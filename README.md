@@ -22,3 +22,6 @@ an another 300 x 300 sized window.
 
 7) bitwise : In this mini-project, bitwise operations are done between two images. The images go through OR, AND, XOR, and NOT operations.
 The resultant images appear for a duration of 2 seconds before moving on to the next image.
+
+8) TrackBar : Trackbars are created and the user can use slide them to create an RGB shade of their own choice. Also, a switch has been made to toggle 
+whether the user want the change in the image.
