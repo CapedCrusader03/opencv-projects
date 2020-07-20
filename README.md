@@ -25,3 +25,5 @@ The resultant images appear for a duration of 2 seconds before moving on to the 
 
 8) TrackBar : Trackbars are created and the user can use slide them to create an RGB shade of their own choice. Also, a switch has been made to toggle 
 whether the user want the change in the image.
+
+9) Color2Gray : A trackbar is used to toggle between RGB image and Grayscale image
