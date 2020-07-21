@@ -33,3 +33,5 @@ whether the user want the change in the image.
 11) ColoredMask : This is generalisation of the ColoredBalls project. Here, I have used a mask that can be used to detect objects of the same category(like blue balls or red balls,  etc.). I've used trackbar to do the object detection of user's choice. And then, a res named frame is created which does bitwise AND operation and displays the final output, i.e., colored version of the mask.
 
 12) VideoMask : This is the implementation of ColoredMask project in the video form, i.e. the faces or any other object can be used for object detection using primary camera. 
+
+13) SimpleThresholds : This is used to do some simple threshold operations on images like binary threshold, binary inverse threshold, truncated threshold, to zero threshold, to zero inverse threshold.
