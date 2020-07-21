@@ -29,3 +29,5 @@ whether the user want the change in the image.
 9) Color2Gray : A trackbar is used to toggle between RGB image and Grayscale image.
 
 10) ColoredBalls : Out of the many colored balls, only those balls are selected that are of blue color. Basically, a mask is created to do the object dection of blue clored balls. Also, a bitwise AND operation is done on the image to show the blue balls.
+
+11) ColoredMask : This is generalisation of the ColoredBalls project. Here, I have used a mask that can be used to detect objects of the same category(like blue balls or red balls,  etc.). I've used trackbar to do the object detection of user's choice. And then, a res named frame is created which does bitwise AND operation and displays the final output, i.e., colored version of the mask.
