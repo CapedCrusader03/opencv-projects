@@ -26,4 +26,6 @@ The resultant images appear for a duration of 2 seconds before moving on to the 
 8) TrackBar : Trackbars are created and the user can use slide them to create an RGB shade of their own choice. Also, a switch has been made to toggle 
 whether the user want the change in the image.
 
-9) Color2Gray : A trackbar is used to toggle between RGB image and Grayscale image
+9) Color2Gray : A trackbar is used to toggle between RGB image and Grayscale image.
+
+10) ColoredBalls : Out of the many colored balls, only those balls are selected that are of blue color. Basically, a mask is created to do the object dection of blue clored balls. Also, a bitwise AND operation is done on the image to show the blue balls.
