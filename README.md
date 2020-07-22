@@ -37,3 +37,5 @@ whether the user want the change in the image.
 13) SimpleThresholds : This is used to do some simple threshold operations on images like binary threshold, binary inverse threshold, truncated threshold, to zero threshold, to zero inverse threshold.
 
 14) Threshold : Adaptive threshold is used in this project which helps to do effective thresholding in the images in which there are variable lighting conditions. Mean and gaussian filters are used.
+
+15) PltThreshold : All the threshold operations done in SimpleThreshold are displayed in a single frame using matplotlib.
