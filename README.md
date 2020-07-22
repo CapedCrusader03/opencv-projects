@@ -39,3 +39,5 @@ whether the user want the change in the image.
 14) Threshold : Adaptive threshold is used in this project which helps to do effective thresholding in the images in which there are variable lighting conditions. Mean and gaussian filters are used.
 
 15) PltThreshold : All the threshold operations done in SimpleThreshold are displayed in a single frame using matplotlib.
+
+16) MorphologicalOperations : Some morphological operations like erosion, dilation, opening, closing, top hat are done. These morphological transformations are helpful in removing noise from the input images. All the operations are shown in a single frame usin matplotlib library.
