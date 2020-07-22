@@ -35,3 +35,5 @@ whether the user want the change in the image.
 12) VideoMask : This is the implementation of ColoredMask project in the video form, i.e. the faces or any other object can be used for object detection using primary camera. 
 
 13) SimpleThresholds : This is used to do some simple threshold operations on images like binary threshold, binary inverse threshold, truncated threshold, to zero threshold, to zero inverse threshold.
+
+14) Threshold : Adaptive threshold is used in this project which helps to do effective thresholding in the images in which there are variable lighting conditions. Mean and gaussian filters are used.
