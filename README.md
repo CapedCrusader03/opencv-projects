@@ -41,3 +41,5 @@ whether the user want the change in the image.
 15) PltThreshold : All the threshold operations done in SimpleThreshold are displayed in a single frame using matplotlib.
 
 16) MorphologicalOperations : Some morphological operations like erosion, dilation, opening, closing, top hat are done. These morphological transformations are helpful in removing noise from the input images. All the operations are shown in a single frame usin matplotlib library.
+
+17) SmoothingAndBlurring : Used 2D covolutions, Average blurring and Gaussian blurring to blur and smoothen the image.
