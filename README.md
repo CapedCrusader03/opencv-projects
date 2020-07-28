@@ -47,3 +47,5 @@ whether the user want the change in the image.
 18) EdgeDetection : Used sobel filters, canny edge detector adn gaussian blur to detect the edges of the images and displayed all of them in a single frame using matplotlib library
 
 19) ImagePyramid : Used Gaussian pyramids that downscale the image 5 times, where each downscale reduces the size of the image to one-fourth of the previous image
+
+20) ImageBlend : Used Gaussian and Laplacian pyramids to blend two images smoothly. 
