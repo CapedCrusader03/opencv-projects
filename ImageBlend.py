@@ -6,9 +6,11 @@ import numpy as np
 apple = cv2.imread('apple.jpg')
 orange = cv2.imread('orange.png')
 
+#Resizing the images to the same size
 apple = cv2.resize(apple, (512,512))
 orange = cv2.resize(orange,(512,512))
 
+#Blending the images simply without using pyramids
 apple_orange = np.hstack((apple[:, :256], orange[:, 256:]))
 
 cv2.imshow('Apple',apple)
