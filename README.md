@@ -51,3 +51,5 @@ whether the user want the change in the image.
 20) ImageBlend : Used Gaussian and Laplacian pyramids to blend two images smoothly. 
 
 21) Contours : Used findcontours method of OpenCV to find the contours. Total no. of contours in are printed and the contours are drawn on the original image.
+
+22) ObjectDetection : Used findContours method to detect all the objects that are moving in the video.
